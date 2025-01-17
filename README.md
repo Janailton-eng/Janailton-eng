@@ -53,8 +53,9 @@ When I'm not developing or prototyping, I enjoy diving into sci-fi books, gaming
   Gaming is more than just a hobby for me; it's a way to relax, explore new worlds, and challenge my problem-solving skills. I particularly enjoy story-driven games that combine creativity, strategy, and emotion.
 </p>
 
-### My Steam Profile:
+### My Profiles:
 <a href="https://steamcommunity.com/id/LordLuffy01/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile"></a>
+<a href="https://www.reddit.com/user/Jovem_Engenheiro/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Profile"></a>
 
 </div>
 
