@@ -24,14 +24,14 @@ When I'm not coding or prototyping, I enjoy exploring sci-fi worlds in books, le
 ##
 
 # 📊 My GitHub Stats / 🚀 Most Used Languages
-  
+
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Janailton-eng&theme=radical&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Janailton-eng&theme=radical&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=Janailton-eng&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janailton-eng&hide_border=true&size_weight=0.15&count_weight=0.5&layout=compact&theme=radical" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janailton-eng&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janailton-eng&hide_border=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ##
