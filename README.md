@@ -5,44 +5,44 @@
 
 <div align="justify">
 
-I'm an Electrical Engineering student with a passion for Data Science, Embedded Systems, and technology as a whole. My academic and professional journey has allowed me to combine analytical thinking with hands-on experience in hardware and software development.
+I'm an Electrical Engineering student with a passion for Data Science, Embedded Systems, and innovative technologies. My journey involves combining analytical thinking with practical experience in hardware and software development.
 
-As a member of the FSAE Carcará team, I actively contribute to the design and implementation of electronic systems for high-performance competition vehicles. My role includes sensor integration, motor control, telemetry, and efficient communication between various modules. This experience has strengthened my skills in SCADA systems, telemetria, and working with platforms like Arduino and Raspberry Pi.
+As an active member of the **FSAE Carcará** team, I work on designing and implementing electronic systems for high-performance vehicles. My expertise includes sensor integration, motor control, telemetry, and SCADA systems, leveraging platforms like Arduino, Raspberry Pi, and Python.  
 
-I aim to constantly expand my knowledge, working on innovative projects that challenge me to grow professionally and personally. With a strong foundation in Python, Linux, and data visualization tools like Grafana, I'm eager to contribute to impactful projects while learning new technologies along the way.
+I am dedicated to constantly expanding my knowledge by working on projects that challenge me, combining my interest in embedded systems and data analysis to contribute to impactful solutions.
 
-When I'm not coding or prototyping, I enjoy exploring sci-fi worlds in books, leveling up in virtual adventures through gaming, and delving into documentaries to feed my insatiable curiosity about the real world.
+When I'm not developing or prototyping, I enjoy diving into sci-fi books, leveling up in games, and exploring the wonders of the real world through documentaries.  
+
+**Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janailton-ferreira-costa/).**  
 
 </div>
+
+---
 
 <p align="center">
   <img width="1200" height="200" src="https://github-profile-trophy.vercel.app/?username=Janailton-eng&no-frame=true&theme=radical" alt="GitHub Trophies">
 </p>
 
-<div align="center">
-
-##
+---
 
 # 📊 My GitHub Stats / 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Janailton-eng&theme=radical&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
+  <a href="https://github.com/Janailton-eng">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Janailton-eng&theme=radical&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janailton-eng&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janailton-eng&hide_border=true&layout=compact&theme=radical" alt="Most Used Languages">
+  <a href="https://github.com/Janailton-eng">
+    <img src="https://github-readme-stats.vercel.app/api?username=Janailton-eng&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Janailton-eng">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janailton-eng&hide_border=true&layout=compact&theme=radical" alt="Most Used Languages">
+  </a>
 </p>
 
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/janailton-ferreira-costa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
-  </a>
-</div>
-
-##
+---
 
 # 🛠️ Tools and Technologies:
 <div align="center">
@@ -60,5 +60,17 @@ When I'm not coding or prototyping, I enjoy exploring sci-fi worlds in books, le
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" title="MySQL" />
 </div>
+
+---
+
+# 🔗 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/janailton-ferreira-costa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Janailton-eng" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub">
+  </a>
+</p>
 
 </div>
