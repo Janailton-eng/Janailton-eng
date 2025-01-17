@@ -11,7 +11,7 @@ As an active member of the **FSAE Carcará** team, I work on designing and imple
 
 I am dedicated to constantly expanding my knowledge by working on projects that challenge me, combining my interest in embedded systems and data analysis to contribute to impactful solutions.
 
-When I'm not developing or prototyping, I enjoy diving into sci-fi books, leveling up in games, and exploring the wonders of the real world through documentaries.  
+When I'm not developing or prototyping, I enjoy diving into sci-fi books, gaming, and exploring the wonders of the real world through documentaries.  
 
 **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janailton-ferreira-costa/).**  
 
@@ -41,6 +41,22 @@ When I'm not developing or prototyping, I enjoy diving into sci-fi books, leveli
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janailton-eng&hide_border=true&layout=compact&theme=radical" alt="Most Used Languages">
   </a>
 </p>
+
+---
+
+# 🎮 My Passion for Gaming
+
+<div align="center">
+
+### Love for Gaming 🎮
+<p align="center">
+  Gaming is more than just a hobby for me; it's a way to relax, explore new worlds, and challenge my problem-solving skills. I particularly enjoy story-driven games that combine creativity, strategy, and emotion.
+</p>
+
+### My Steam Profile:
+<a href="https://steamcommunity.com/id/LordLuffy01/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile"></a>
+
+</div>
 
 ---
 
